@@ -1,0 +1,15 @@
+Paypal
+Email: email: sb-x16i417263701@personal.example.com
+Password: monolorio1
+
+
+
+Mercado pago
+Email: test_user_16043669@testuser.com
+Password: qatest617
+
+Tarjeta :
+
+-Numero: 5416 7526 0258 2580
+-cvv:123
+-fecha de vencimiento:11/25
